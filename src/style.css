@@ -1,0 +1,21 @@
+.heroSection{
+    padding: 240px 80px 240px 80px;
+    background-color: #5f9ea054;
+}
+.Skills{
+    width: 1200px;
+}
+.w-1200{
+    max-width: 1140px;
+    width: 1140px;
+}
+.navlink-padding{
+    padding : 21px 20px 10px!important;
+}
+.nav-dropdown .dropdown-toggle{
+    padding: 0;
+}
+
+.nav-box-shadow{
+    box-shadow: 0px 0px 38px 0px rgba(0,0,0,0.1);
+}
